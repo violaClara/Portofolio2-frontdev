@@ -1,0 +1,172 @@
+*{
+    width= 1440px;
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+   
+}
+
+body{
+    background-color: #fafafa;
+}
+
+#wrapper{
+    position: relative;
+    width: 1020px;
+    left: 15%;
+    top:50px;
+    height: 1000px
+}
+
+#atas{
+    text-align: center;
+    color:#545567;
+    background-color: #fafafa;
+   
+}
+#reliable{
+    font-size: 28px;
+    font-weight: 300;
+}
+#power{
+    font-size: 28px;
+    margin-bottom: 15px;
+    
+}
+#atas p{
+    font-size: 17px;
+    padding-bottom: 50px;
+}
+
+#bawah{
+    background-color: #fafafa;
+    position: relative;
+    height: 400px;
+    color: #545567;
+
+}
+#kolom1{
+    background-color: white;
+    box-shadow: 0 10px 10px -5px #555;
+    width:300px;
+    height: 200px;
+    position: absolute;
+    bottom: 100px;
+    border-top: 5px solid #42d3d0;
+    border-radius: 5px;
+
+}
+#kolom1 b{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+    position: relative;
+    top:20px;
+    font-size: larger;
+}
+#kolom1 p{
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 200px;
+    font-size: 14px;
+}
+#kolom1 img{
+    position: relative;
+    left:200px;
+}
+#kolom2{
+    background-color: white;
+    box-shadow: 0 10px 10px -5px #555;
+    width:300px;
+    height: 200px;
+    position: absolute;
+    left: 360px;
+    bottom: 200px;
+    border-top: 5px solid #ea5551;
+    border-radius: 5px;
+
+ 
+}
+#kolom3{
+    background-color: white;
+    box-shadow: 0 10px 10px -5px #555;
+    width:300px;
+    height: 200px;
+    position: absolute;
+    left: 360px;
+    bottom: -20px;
+    border-top: 5px solid #fcae4a;
+    border-radius: 5px;
+}
+#kolom4{
+    background-color: white;
+    box-shadow: 0 10px 10px -5px #555;
+    width:300px;
+    height: 200px;
+    position: absolute;
+    right: 0px;
+    bottom: 100px;
+    border-top: 5px solid #519ff2;
+    border-radius: 5px;
+}
+/* ------ */
+#kolom2 b{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+    position: relative;
+    top:20px;
+    font-size: larger;
+}
+#kolom2 p{
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 200px;
+    font-size: 14px;
+}
+#kolom2 img{
+    position: relative;
+    left:200px;
+    bottom: 10px;
+}
+/* ------------ */
+#kolom3 b{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+    position: relative;
+    top:20px;
+    font-size: larger;
+}
+#kolom3 p{
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 200px;
+    font-size: 14px;
+}
+#kolom3 img{
+    position: relative;
+    left:200px;
+    bottom: 7px;
+}
+
+/* ------ */
+#kolom4 b{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+    position: relative;
+    top:20px;
+    font-size: larger;
+}
+#kolom4 p{
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 200px;
+    font-size: 14px;
+}
+#kolom4 img{
+    position: relative;
+    left:200px;
+    bottom: 7px;
+}
